@@ -1,5 +1,7 @@
 # Hacklahoma2024
 
+Check out the Devpost! https://devpost.com/software/terminal-terror
+
 -----
  
 ### Sketchfab Assets
