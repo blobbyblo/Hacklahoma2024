@@ -1,3 +1,6 @@
+# Files too big for GitHub
+Packaged/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
